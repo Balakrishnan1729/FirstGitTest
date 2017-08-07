@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onResume();
     }
 
-    public void BalaTest(){
+    public void BalaTestGit(){
 
     }
 }
